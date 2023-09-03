@@ -1,0 +1,50 @@
+.main-2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.hollow-ellipse-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media (min-width: 576px) {
+  .contact-heading {
+    font-size: 48px;
+  }
+}
+.sub-card-para-1 {
+  font-family: 'Inter';
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1f2027;
+}
+.offers-card-img {
+  height: 50px;
+  width: 50px;
+}
+.sub-card-ellipse-small {
+  width: 32.30952453613281px;
+  height: 32.30952453613281px;
+}
+.sub-card-2-woman-img {
+  width: 400px;
+  height: 400px;
+  top: 2726.000244140625px;
+  left: 636.0000610351562px;
+}
+.card-2-ellipse-55-img {
+  width: 50.99999237060625px;
+  height: 51.00000762939531px;
+  top: 1202px;
+  left: 708px;
+  angle: 0 deg;
+}
+.round-image-container {
+  top: 1202px;
+  left: 708px;
+}

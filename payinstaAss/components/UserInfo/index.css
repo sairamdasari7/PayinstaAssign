@@ -1,0 +1,179 @@
+/* Write your CSS code here */
+
+.card-1 {
+  background-color: #f8f1d3;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  border-radius: 15px;
+  padding: 40px;
+}
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.user-info-heading {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+
+.user-info-paragraph {
+  font-size: 12px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+.user-info-image {
+  height: 60px;
+  width: 60px;
+}
+.highlight-1 {
+  font-family: Poppins;
+  font-size: 80px;
+  font-weight: bold;
+  line-height: 100px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1f2027;
+}
+.highlight-2 {
+  font-family: Poppins;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 100px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1f2027;
+}
+.highlight-3 {
+  font-family: Inter;
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 100px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1f2027;
+}
+.btn-card-1 {
+  width: 165px;
+  height: 51px;
+  padding: 16px 50px 16px 50px;
+  border-radius: 30px;
+  gap: 16px;
+  background-color: #f27a44;
+  color: #ffffff;
+  border: 0;
+}
+.user-info-img {
+  display: flex;
+  flex-direction: row;
+}
+.ellipse-46 {
+  margin-left: 30px;
+  background-color: #f27a44;
+}
+.images-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-left: left;
+}
+.subtract {
+  width: 15px;
+  height: 15px;
+  text-align: right;
+  align-items: right;
+}
+.subtract-1 {
+  display: flex;
+}
+.card-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ffffff;
+  padding: 30px;
+}
+.sub-card-1 {
+  margin-top: 150px;
+  list-style-type: none;
+}
+.card-2-container {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  border: 0px;
+  border-style: solid;
+  border-radius: 20px;
+  margin: 20px;
+  box-shadow: 0px 3.1255478858947754px 5.925629615783691px 0px #00000009;
+  box-shadow: 0px 47px 152px 0px #00000017;
+}
+.card-2-img {
+  padding-right: 15px;
+  background-color: #ffffff;
+}
+.card-2-subtract-img {
+  position: relative;
+  top: -16px;
+  right: -350px;
+  height: 120px;
+  width: 120px;
+}
+.sub-card-ellipse-46 {
+  width: 73px;
+  height: 73px;
+  top: 1270px;
+  left: 849px;
+}
+
+.sub-card-2 {
+  display: flex;
+  flex-direction: column;
+}
+.sub-card-heading {
+  font-family: 'Inter';
+  font-size: 40px;
+  font-weight: 600;
+  text-align: left;
+}
+.sub-card-spam {
+  font-family: 'Inter';
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.sub-card-para {
+  font-family: 'Inter';
+  font-size: 20px;
+  text-align: left;
+}
+.un-ord-list {
+  font-family: 'Inter';
+  font-size: 16px;
+  text-align: left;
+  color: #000000;
+}
+.sub-card-li {
+  font-size: 16px;
+}
+.sub-sub-card {
+  margin-left: 80px;
+  text-align: left;
+}
+.sub-sub-button {
+  width: 200px;
+  height: 51px;
+  padding: 16px 50px 16px 50px;
+  border-radius: 30px;
+  gap: 16px;
+  background-color: #f27a44;
+  font-family: 'Inter';
+  border: 0;
+  color: #ffffff;
+}

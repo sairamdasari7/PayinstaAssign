@@ -1,0 +1,141 @@
+.main-2 {
+  display: flex;
+  flex-direction: row;
+  margin: 50px;
+  height: 100%;
+}
+
+.hollow-ellipse-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@media (min-width: 576px) {
+  .contact-heading {
+    font-size: 48px;
+  }
+}
+.sub-card-para-1 {
+  font-family: 'Inter';
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1f2027;
+}
+.offers-card-img {
+  width: 113px;
+  height: 113px;
+  top: 3714px;
+  left: 607px;
+}
+.sub-card-ellipse-small {
+  width: 32.30952453613281px;
+  height: 32.30952453613281px;
+}
+.sub-card-2-woman-img {
+  width: 400px;
+  height: 400px;
+  top: 2726.000244140625px;
+  left: 636.0000610351562px;
+}
+.card-2-ellipse-55-img {
+  width: 50.99999237060625px;
+  height: 51.00000762939531px;
+  top: 1202px;
+  left: 708px;
+  angle: 0 deg;
+}
+.round-image-container {
+  top: 1202px;
+  left: 708px;
+}
+.book-now-card {
+  margin: 20px;
+  background-color: #ffffff;
+  background-size: cover;
+  box-shadow: 0px 4.424776077270508px 6.210212707519531px 0px #00000007;
+
+  box-shadow: 0px 14.861903190612793px 20.858810424804688px 0px #0000000b;
+
+  box-shadow: 0px 66.53697204589844px 93.38522338867188px 0px #00000012;
+  padding: 20px;
+}
+
+.schedules-image {
+  width: 400px;
+  height: 500px;
+  top: 3546px;
+  left: 105px;
+}
+.schedules-images-card {
+  display: flex;
+  flex-direction: row;
+}
+.input-box {
+  background-color: #f3f3f3;
+  padding: 15px;
+  border-style: none;
+  border-radius: 5px;
+  width: 100%;
+}
+.input-box-1 {
+  background-color: #f3f3f3;
+  padding: 15px;
+  border-style: none;
+  border-radius: 5px;
+  margin-right: 40px;
+}
+.form-small {
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+.label-name {
+  font-size: 15px;
+  font-weight: 500;
+}
+.book-button {
+  width: 125.35px;
+  height: 46.02px;
+  padding: 14.007782936096191px 18.677043914794922px 14.007782936096191px
+    18.677043914794922px;
+  border-radius: 4.6692609786987305px;
+  background-color: #000000;
+  color: #ffffff;
+  margin-top: 45px;
+}
+.input-box-2 {
+  text-align: center;
+  background-color: #f3f3f3;
+  border-style: none;
+  border-radius: 5px;
+  padding: 15px;
+  margin-right: 40px;
+}
+.book-now-card-heading {
+  font-family: 'Roboto';
+  font-size: 33px;
+  font-weight: 900;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.book-now-card-para {
+  font-family: 'Roboto';
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0.5836576223373413px;
+  text-align: left;
+  color: #282828;
+}
+.form-edit {
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
